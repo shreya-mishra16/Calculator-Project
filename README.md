@@ -1,2 +1,13 @@
 # Calculator-Project
-Simple calculator project using Python functions and conditions
+This is a simple calculator project made using Python.
+
+## Features
+-Addition
+-Subtraction
+-Multiplication
+-Division
+
+## Concepts Used
+-Functions
+-Conditions
+-User Input
